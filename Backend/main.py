@@ -20,8 +20,8 @@ db_config = {
     'host': 'localhost',
     'port': 3305,
     'username': 'root',
-    'password': 'India@11',
-    'database': 'test-server'
+    'password': //your_password//,
+    'database': '//your_database_name//'
 }
 class UserResponse(BaseModel):
     name:str
